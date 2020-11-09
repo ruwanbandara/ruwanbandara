@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruwan Bandara</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruwanbandara" alt="ruwanbandara" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruwanbandara" alt="ruwanbandara" /></a> </p>
 
 - 📫 How to reach me **ruwan.se.uok@gmail.com**
 
