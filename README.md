@@ -14,5 +14,5 @@
 <a href="https://medium.com/@ruwan.se.uok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ruwan.se.uok" height="30" width="40" /></a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=janakaedirisinghe&label=Profile%20views&color=brightgreen&style=plastic" alt="janakaedirisinghe" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ruwanbandara&label=Profile%20views&color=brightgreen&style=plastic" alt="ruwanbandara" /> </p>
 
